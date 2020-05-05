@@ -18,6 +18,7 @@ public class CalculosMatematicos {
 	 */
 	
 	//otro comentario
+	//yet another comentario
 	public static SortedMap<Integer, Integer> divisores(int numero) {
 		SortedMap<Integer, Integer> divisores = new TreeMap<Integer, Integer>();
 		int numeroIntermedio = numero;
