@@ -16,6 +16,8 @@ public class CalculosMatematicos {
 	 * es el número de veces que incluye ese divisor primo.
 	 * 
 	 */
+	
+	//otro comentario
 	public static SortedMap<Integer, Integer> divisores(int numero) {
 		SortedMap<Integer, Integer> divisores = new TreeMap<Integer, Integer>();
 		int numeroIntermedio = numero;
